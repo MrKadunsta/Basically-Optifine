@@ -1,4 +1,4 @@
-# Basically-Optifine
+# Basically Optifine
 Welcome to Basically Optifine, a Fabric Vanilla+ modpack & OptiFine alternative with a few additional features. These include a better video settings UI, a Mods menu, and Fullbright.
 
 <p style="text-align: center;">~~~~~~~~ Main Features ~~~~~~~~</p>
